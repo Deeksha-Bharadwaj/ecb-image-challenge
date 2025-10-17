@@ -2,10 +2,6 @@
 
 **Lab 06:** Breaking AES-ECB encryption on bitmap images
 
-**Author:** Deeksha Bharadwaj  
-**Course:** [Your Course Name]  
-**Date:** [Date]
-
 ## Overview
 
 This project demonstrates the vulnerability of AES-ECB mode encryption. By exploiting ECB's pattern-preservation weakness, we extracted a hidden flag from an encrypted bitmap image without the decryption key.
